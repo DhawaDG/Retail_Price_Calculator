@@ -69,6 +69,4 @@ pip install -r requirements.txt
 ### 5. Launch the Web Application
 ```bash
 streamlit run app.py
-```
-# Retail_Price_Calculator
-# Retail_Price_Calculator
+
